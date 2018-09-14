@@ -1,0 +1,65 @@
+
+
+
+.container hr {
+      display: block;
+      margin-top: 51px;
+      margin-left: -10px;
+      margin-right: -10px;
+      border-style: solid;
+      border-width: 0.5px;
+  }
+
+  .container {
+
+  }
+
+
+  .top-left {
+      font-family: 'Montserrat', sans-serif;
+      color: blue;
+      position: absolute;
+      top: -30px;
+      left: 1%;
+      font-size: 19px;
+      font-weight: 300;
+
+      letter-spacing: 0px;
+      margin-bottom: 0;
+      float: left;
+  }
+  .centered {
+      font-family: 'Arial', sans-serif;
+      font-size: 16px;
+      font-weight: 300;
+      position: absolute;
+      top: 5px;
+      right: 250px;
+
+  }
+  .centered2 {
+      font-family: 'Arial', sans-serif;
+      font-size: 16px;
+      font-weight: 300;
+      position: absolute;
+      top: 5px;
+      right: 175px;
+
+  }
+  .top-right {
+      font-family: 'Arial', sans-serif;
+      font-size: 16px;
+      font-weight: 300;
+      position: absolute;
+      top: 5px;
+      right: 100px;
+  }
+
+
+  .accuweather .chart {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      margin-left: 180px;
+      margin-top: 250px;
+      margin-bottom: 100px;
+}
