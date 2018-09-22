@@ -55,7 +55,9 @@
       right: 100px;
   }
 
-
+  .webcams {
+    margin-left: 20%;
+  }
   .accuweather .chart {
       padding-top: 10px;
       padding-bottom: 10px;
